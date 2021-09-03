@@ -40,6 +40,14 @@ or `index.html` and your changes come through automatically.
 
 personally i'm amazed at how simple this is...
 
+## install libraries
+
+```
+npm install -D @codemirror/view
+npm install -D @codemirror/state
+npm install -D @codemirror/lang-markdown
+```
+
 ## index.html
 
 ```html
